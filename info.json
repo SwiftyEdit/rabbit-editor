@@ -3,18 +3,18 @@
     "id": "rabbit-editor",
     "name": "Rabbit Editor",
     "type": "editor",
-    "version": "0.1.3",
-    "build": 4,
+    "version": "0.1.4",
+    "build": 5,
     "author": "SwiftyEdit Developer Team",
     "description": "Markdown content-format editor",
     "update_url": "https://raw.githubusercontent.com/SwiftyEdit/rabbit-editor/main/info.json"
   },
   "versions": [
     {
-      "version": "0.1.3",
-      "build": 4,
+      "version": "0.1.4",
+      "build": 5,
       "requires_build": "26-0183",
-      "download_url": "https://github.com/SwiftyEdit/rabbit-editor/releases/download/v0.1.3/rabbit-editor-0.1.3.zip"
+      "download_url": "https://github.com/SwiftyEdit/rabbit-editor/releases/download/v0.1.4/rabbit-editor-0.1.4.zip"
     }
   ],
   "editor": {

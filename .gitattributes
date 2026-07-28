@@ -3,3 +3,9 @@
 # release archives built with `git archive`.
 screenshots export-ignore
 .gitattributes export-ignore
+
+# Dev-only files with no purpose once installed. .gitignore in particular
+# must stay out: PHP's pathinfo() reports its "extension" as "gitignore",
+# which core's se_install_plugin() extension whitelist rejects, aborting
+# the whole install.
+.gitignore export-ignore
