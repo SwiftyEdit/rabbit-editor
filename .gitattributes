@@ -1,0 +1,5 @@
+# Screenshots are only needed for the registry catalog (linked via raw
+# GitHub URLs), not by the installed plugin itself - keep them out of
+# release archives built with `git archive`.
+screenshots export-ignore
+.gitattributes export-ignore
