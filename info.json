@@ -2,7 +2,7 @@
   "addon": {
     "name": "Rabbit Editor",
     "type": "editor",
-    "version": "0.1",
+    "version": "0.1.0",
     "author": "SwiftyEdit Developer Team",
     "description": "Markdown content-format editor"
   },
