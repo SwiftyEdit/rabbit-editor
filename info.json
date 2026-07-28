@@ -2,10 +2,20 @@
   "addon": {
     "name": "Rabbit Editor",
     "type": "editor",
-    "version": "0.1.1",
+    "version": "0.1.2",
+    "build": 3,
     "author": "SwiftyEdit Developer Team",
-    "description": "Markdown content-format editor"
+    "description": "Markdown content-format editor",
+    "update_url": "https://raw.githubusercontent.com/SwiftyEdit/rabbit-editor/main/info.json"
   },
+  "versions": [
+    {
+      "version": "0.1.2",
+      "build": 3,
+      "requires_build": "26-0183",
+      "download_url": "https://github.com/SwiftyEdit/rabbit-editor/releases/download/v0.1.2/rabbit-editor-0.1.2.zip"
+    }
+  ],
   "editor": {
     "id": "markdown_v1",
     "label": "Rabbit Editor",
